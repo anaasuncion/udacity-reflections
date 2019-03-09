@@ -15,3 +15,8 @@ How can you use the staging area to make sure you have one commit per logical ch
     Staging area and diff --staged lets you double check what is different between what you plan 
     to commit and what is alreay in a commit. That way you check what you will commit is what
     you actually want to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+    It helps when you're trying out an experimental feature and still saving a working version. 
+    Using a branch to create an easier version of a game would be helpful and so you have a regular (master) branch
+    and an easy one. 
