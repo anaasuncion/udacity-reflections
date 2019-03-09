@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Using diff made it clear which lines were different between the two versions so you 
+    can just focus on those specific lines. And only looking at a few lines instead of
+    all make it easier to find the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having history of a file will help you find difference between each version so you're
+    not left having to sift through hundreds of lines
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros for Git is means you can decide when you've made significant amount of changes
+    or have added something that you think will work, but might not and so having that
+    version and decision is nice, but the con is you might also forget to manually create
+    them and then it's too late.
+
+    Pros of google doc is you don't have to think about it, but the con would be sometimes 
+    it doesnt do it enough and too many changes have been made between the two versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiiple files in one commit will make it easier to see what changes affect
+    multiple files that interact with each other. Google Docs are treated seperately
+    since most docs don't affect others.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log shows various commits, where as git diff specifically shows the difference
+    between two files
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Always create a version when it's working, then you can make changes to test something and if
+    it ends up breaking something then at lease you have the most recent working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Idk.
+
