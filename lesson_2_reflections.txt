@@ -10,3 +10,8 @@ What value do you think it offers?
     the commit. 
     It's valuable in that you can design and decide what goes into a commit before doing
     the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    Staging area and diff --staged lets you double check what is different between what you plan 
+    to commit and what is alreay in a commit. That way you check what you will commit is what
+    you actually want to commit.
