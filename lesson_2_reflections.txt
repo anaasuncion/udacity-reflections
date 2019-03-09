@@ -25,3 +25,9 @@ How do the diagrams help you visualize the branch structure?
     Diagrams help you see the parent of a commit. Branches are given names and so you can trace back previous commits.
     It's possible to lose a node if a change is made after the master branch has been updated, in this case you need to create 
     a new branch to keep that commit/node traceable. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    The result is finding the changes that were made from the original commit before they branched off and combining them back into
+    one branch. This is useful for added new features or experimental branches to the master, the branch merged into the master can 
+    then be deleted because the master branch now has the commits of both the previous state of the master and the branch that
+    got merged. IN the diagram all commits can be reached if done correctly even after 'deleting' the merged branch.
