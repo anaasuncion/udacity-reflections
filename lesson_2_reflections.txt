@@ -31,3 +31,6 @@ What is the result of merging two branches together? Why do we represent it in t
     one branch. This is useful for added new features or experimental branches to the master, the branch merged into the master can 
     then be deleted because the master branch now has the commits of both the previous state of the master and the branch that
     got merged. IN the diagram all commits can be reached if done correctly even after 'deleting' the merged branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+    there can be conflicts in Git's automatic, but generally it will save time vs a manual merge.
