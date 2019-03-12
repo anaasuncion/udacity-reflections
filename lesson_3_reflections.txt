@@ -7,3 +7,8 @@ stay up-to-date with your remote repository?
   Having the freedom to choose when pulls are done allow for more freedom for the contributor.
   Manually also allows for a team of contributor decide when is the best time to push/pull changes
   that best fit the needs of the contributors and the project.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks are a way to copy someone else's repository to your own GitHub account.
+  Clones are copys of a repository from a local device to another local device or from GitHub to a local device.
+  Branches are a unique set of commits with a unique name when it diverges from the master branch.
